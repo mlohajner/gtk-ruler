@@ -2,7 +2,7 @@
 
 **A simple, lightweight on-screen ruler for Linux.**
 
-Measure anything on your screen — windows, UI elements, images, spacing, distances, and dimensions — without leaving your desktop or reaching for a screenshot editor.
+Measure anything on your screen: windows, UI elements, images, spacing, distances, and dimensions - without leaving your desktop or reaching for a screenshot editor.
 
 Ruler is a small, native GTK3 + X11 utility designed to stay out of your way and make quick on-screen measurements effortless.
 
@@ -28,20 +28,20 @@ Ever needed to know:
 
 Instead of taking a screenshot, opening an image editor, or guessing, **just put the ruler on the screen and measure it directly.**
 
-Ruler is intentionally small and focused. No complicated UI, no project files, no setup — just a ruler that is always ready when you need it.
+Ruler is intentionally small and focused. No complicated UI, no project files, no setup - just a ruler that is always ready when you need it.
 
 ## Features
 
-- 📏 **Measure directly on your screen** — place the ruler over anything and read its dimensions immediately.
-- 🖱️ **Move and resize interactively** — drag the ruler or its edges just like you'd expect.
-- 🖥️ **Works across monitors** — use it on your current display and switch to fullscreen when you need a larger measuring area.
-- 🎨 **Built-in color picker** — hold `C` to sample the pixel color directly under the cursor.
-- 📋 **Copy measurements to the clipboard** — press `Enter` to quickly copy dimensions and color information.
-- 🔄 **Rotate measurements instantly** — press `R` to swap width and height.
-- 🎯 **Choose your reference point** — change the measurement origin and angle with `O`.
-- 👻 **Adjust transparency** — make the ruler more or less transparent so you can see what you're measuring underneath.
-- ⚡ **Keyboard-friendly** — move and resize precisely with the arrow keys.
-- 🪶 **Lightweight** — a small utility that does one job without getting in your way.
+- 📏 **Measure directly on your screen** - place the ruler over anything and read its dimensions immediately.
+- 🖱️ **Move and resize interactively** - drag the ruler or its edges just like you'd expect.
+- 🖥️ **Works across monitors** - use it on your current display and switch to fullscreen when you need a larger measuring area.
+- 🎨 **Built-in color picker** - hold `C` to sample the pixel color directly under the cursor.
+- 📋 **Copy measurements to the clipboard** - press `Enter` to quickly copy dimensions and color information.
+- 🔄 **Rotate measurements instantly** - press `R` to swap width and height.
+- 🎯 **Choose your reference point** - change the measurement origin and angle with `O`.
+- 👻 **Adjust transparency** - make the ruler more or less transparent so you can see what you're measuring underneath.
+- ⚡ **Keyboard-friendly** - move and resize precisely with the arrow keys.
+- 🪶 **Lightweight** - a small utility that does one job without getting in your way.
 
 ## Build
 
