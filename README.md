@@ -6,6 +6,15 @@ Measure anything on your screen — windows, UI elements, images, spacing, dista
 
 Ruler is a small, native GTK3 + X11 utility designed to stay out of your way and make quick on-screen measurements effortless.
 
+<p align="center">
+  <img src="screenshots/screen1.png" alt="Ruler measuring an element on screen, showing width, height, area and a diagonal readout" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/screen2.png" alt="Ruler with edge markers and hairlines while measuring another element" width="390">
+  <img src="screenshots/screen3.png" alt="Ruler configuration dialog with display, unit and color options" width="390">
+</p>
+
 ## Why Ruler?
 
 Ever needed to know:
