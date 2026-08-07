@@ -4,7 +4,7 @@ Native GTK3 + X11 on-screen ruler for Linux, written in C.
 
 ## History
 
-Ruler is a Linux port of a much older tool: a small on-screen measuring utility originally written in **Visual Basic**, in **Visual Studio**, back in the early 2000s. That original was a simple Windows desktop app — sit on top of the screen, measure things, get out of the way.
+Ruler is a Linux port of a much older tool: a small on-screen measuring utility originally written in **Visual Basic**, in **Visual Studio**, back in the early 2000s. That original was a simple Windows desktop app - sit on top of the screen, measure things, get out of the way.
 
 This is a full rewrite, not a translation of the old VB code. The logic, event handling, and rendering were rebuilt from scratch in C on top of GTK3/X11, but the goal stayed the same: a small, single-purpose ruler that's always at hand.
 
@@ -21,12 +21,12 @@ This is a full rewrite, not a translation of the old VB code. The logic, event h
 
 ## UI design with Cambalache
 
-The options/config dialog isn't hand-written XML — it's built visually in **Cambalache**, GNOME's GTK UI designer, and exported to GtkBuilder `.ui`:
+The options/config dialog isn't hand-written XML - it's built visually in **Cambalache**, GNOME's GTK UI designer, and exported to GtkBuilder `.ui`:
 
-- `data/options-window.cmb` — the Cambalache project file, edit this in Cambalache
-- `data/options-window.ui` — the generated GtkBuilder XML, loaded at runtime via `data/ruler.gresource.xml`
+- `data/options-window.cmb` - the Cambalache project file, edit this in Cambalache
+- `data/options-window.ui` - the generated GtkBuilder XML, loaded at runtime via `data/ruler.gresource.xml`
 
-If you want to change the options window layout, open the `.cmb` file in Cambalache rather than editing the `.ui` by hand — regenerate the `.ui` from there so both stay in sync.
+If you want to change the options window layout, open the `.cmb` file in Cambalache rather than editing the `.ui` by hand, regenerate the `.ui` from there so both stay in sync.
 
 ## Source layout
 
