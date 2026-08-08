@@ -2,7 +2,7 @@
 
 **A simple, lightweight on-screen ruler for Linux.**
 
-Measure anything on your screen: windows, UI elements, images, spacing, distances, and dimensions - without leaving your desktop or reaching for a screenshot editor.
+Measure anything on your screen: UI elements, images, spacing, distances, and dimensions - without leaving your desktop or reaching for a screenshot editor.
 
 Ruler is a small, native GTK3 + X11 utility designed to stay out of your way and make quick on-screen measurements effortless.
 
