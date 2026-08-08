@@ -32,16 +32,16 @@ Ruler is intentionally small and focused. No complicated UI, no project files, n
 
 ## Features
 
-- 📏 **Measure directly on your screen** - place the ruler over anything and read its dimensions immediately.
-- 🖱️ **Move and resize interactively** - drag the ruler or its edges just like you'd expect.
-- 🖥️ **Works across monitors** - use it on your current display and switch to fullscreen when you need a larger measuring area.
-- 🎨 **Built-in color picker** - hold `C` to sample the pixel color directly under the cursor.
-- 📋 **Copy measurements to the clipboard** - press `Enter` to quickly copy dimensions and color information.
-- 🔄 **Rotate measurements instantly** - press `R` to swap width and height.
-- 🎯 **Choose your reference point** - change the measurement origin and angle with `O`.
-- 👻 **Adjust transparency** - make the ruler more or less transparent so you can see what you're measuring underneath.
-- ⚡ **Keyboard-friendly** - move and resize precisely with the arrow keys.
-- 🪶 **Lightweight** - a small utility that does one job without getting in your way.
+- **Measure directly on your screen** - place the ruler over anything and read its dimensions immediately.
+- **Move and resize interactively** - drag the ruler or its edges just like you'd expect.
+- **Works across monitors** - use it on your current display and switch to fullscreen when you need a larger measuring area.
+- **Built-in color picker** - hold `C` to sample the pixel color directly under the cursor.
+- **Copy measurements to the clipboard** - press `Enter` to quickly copy dimensions and color information.
+- **Rotate** - press `R` to swap ruler width and height.
+- **Choose your reference point** - change the measurement origin / angle with `O`.
+- **Adjust transparency** - make the ruler more or less transparent so you can see what you're measuring underneath.
+- **Keyboard-friendly** - move and resize precisely with the arrow keys.
+- **Lightweight** - a small utility that does one job without getting in your way.
 
 ## Build
 
@@ -99,11 +99,11 @@ sudo dnf builddep packaging/fedora/ruler.spec
 
 ## Perfect for
 
-- 🧑‍💻 **Developers** checking UI layouts and pixel dimensions
-- 🎨 **Designers** measuring spacing, elements, and images
-- 🖥️ **Desktop customization** and theme tweaking
-- 🧪 **QA and testing** when exact screen dimensions matter
-- 📐 **Anyone** who occasionally needs a ruler on their screen
+- Developers checking UI layouts and pixel dimensions
+- Designers measuring spacing, elements, and images
+- Desktop customization and theme tweaking
+- QA and testing when exact screen dimensions matter
+- Anyone who occasionally needs a ruler on their screen
 
 Ruler is not a full design tool — and that's the point.
 
