@@ -255,11 +255,6 @@ on_draw(GtkWidget *widget, cairo_t *cr, gpointer user_data)
 		cairo_restore(cr);
 	}
 
-/* ruler edge */
-	cairo_set_source_rgba(cr, 1, 1, 1, 0.6);
-	cairo_rectangle(cr, 0.5, 0.5, w - 1, h - 1);
-	cairo_stroke(cr);
-
 	return FALSE;
 }
 
